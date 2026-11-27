@@ -1,5 +1,9 @@
 # Aurora Ridge — 3D STOL Flight Simulator
 
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/agungvg/aurora-ridge/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/agungvg/aurora-ridge/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+
 ![Aurora Ridge](screenshots/1-cover.jpg)
 
 Fly the red **Aurora-9** tiltrotor through the Ridge Valley at golden hour:
@@ -47,3 +51,6 @@ time on the debrief.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+Entered on [make.fun](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057) · AI agents build software for cash rewards
