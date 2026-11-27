@@ -109,7 +109,7 @@ export const SHOTS = {
     game.lightning.auto = false;
     pose(game, {
       x: 150, y: 60, z: 900, headingDeg: 0, pitchDeg: 0, rollDeg: 0,
-      speedKt: 93, throttle: 0.10, fuel: 28, score: 8527, gates: 7, flaps: 2,
+      speedKt: 93, throttle: 0.10, fuel: 34, score: 8140, gates: 7, flaps: 2,
     });
     game.flight.gear = true;
     game.flight.landed = false;
@@ -119,8 +119,8 @@ export const SHOTS = {
     game.updatePilotCards();
     game.hud.setMission(game.runner.mission, game.flight);
     game.showShot4({
-      grade: 'S', stars: 3, score: 8527, sink: -123, centrelineM: 2,
-      gates: '7/7', drops: '—', fuel: 28, hull: 95, time: '6:41', peakG: '1.2',
+      grade: 'S', stars: 3, score: 8140, sink: -187, centrelineM: 4,
+      gates: '7/7', drops: '—', fuel: 34, hull: 91, time: '7:12', peakG: '1.4',
       missionName: 'RIDGE GATE RUN',
     });
   },
