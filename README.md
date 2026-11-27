@@ -38,9 +38,11 @@ time on the debrief.
 
 - `game/` — the game: `index.html` + `src/` (one file per job: flight,
   terrain, sky, clouds, plane, hud, cockpit, missions, weather, lightning,
-  audio) + `vendor/three.module.js` (Three.js r187, vendored library).
+  audio) + `vendor/three.module.min.js` (Three.js r187, vendored library).
 - `node tools/shoot.mjs` — re-renders the 4 dossier screenshots headless.
 - `node main.ts` — preflight + hand-in bundle (`MAKEFUN_OUTPUT_DIR=out`).
+- `game/vendor/` — Three.js r187, minified vendored build
+  (`three.module.min.js` + `three.core.min.js`, MIT).
 
 ## License
 
